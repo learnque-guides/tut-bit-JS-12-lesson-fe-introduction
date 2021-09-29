@@ -1,0 +1,18 @@
+# Summary
+
+- [Arrays](./arrays.md)
+- [Array literals, element deletion, enumaration and etc.](./array_literals.md)
+- [Exercise 1](./exercise_1.md)
+- [Exercise 2](./exercise_2.md)
+- [Exercise 3](./exercise_3.md)
+- [Objects](./objects.md) 
+- [Object creation - function constructor pattern](./inheritance.md)
+- [Object creation - prototypal pattern](prototype_pattern.md)
+- [Object creation - functional pattern](functional_pattern.md)
+- [Object creation - modern way by using class keywoard](new_way.md)
+- [Scope, closure partial apply and scope binding](./scope_and_bind.md)
+- [Arrow functions](./arrow_functions.md)
+- [Array/Object operators (ES6)](./array_object_operators.md)
+- [Recursion](./recursion.md)
+- [Exercise 4](./exercise_4.md)
+- [Memoization](./memoization.md)
