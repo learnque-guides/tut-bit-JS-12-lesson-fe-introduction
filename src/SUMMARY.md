@@ -13,6 +13,7 @@
 - [Scope, closure partial apply and scope binding](./scope_and_bind.md)
 - [Arrow functions](./arrow_functions.md)
 - [Array/Object operators (ES6)](./array_object_operators.md)
+- [Simple exercises](./simple_exercises.md)
 - [Recursion](./recursion.md)
 - [Exercise 4](./exercise_4.md)
 - [Memoization](./memoization.md)
